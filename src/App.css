@@ -1,0 +1,49 @@
+.mainHeading{
+  background-color: blue;
+  width:98%;
+  height:40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
+  margin:10px;
+  /* border:3px solid gray; */
+}
+.mainHeadingDiv{
+  color: #ffe4c4;
+  font-size: larger;
+  margin:-10px;
+  padding:0px;
+  width:10%;
+}
+.navBP{
+  width:200px;
+  height: 40px;
+  background-color: blue;
+  color:#ffe4c4;
+  border-radius:20px;
+  font-size: 1rem;
+  text-align: center;
+}
+.mainMediCoverLogo{
+  width:98%;
+  margin:20px;
+  height:75px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
+}
+.allInOnePic{
+  width:30px;
+  margin: 10px;
+  padding:0px;
+  
+}
+.BP{
+  font-size: 1.5rem;
+  color:antiquewhite;
+}
+a{
+  text-decoration: none;
+}
